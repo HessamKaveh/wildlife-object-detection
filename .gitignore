@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/
+venv/
+.env
+*.cache
+runs/
+*.pt
+!results/wildlife_yolo/weights/best.pt
