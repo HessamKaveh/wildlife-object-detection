@@ -31,4 +31,4 @@ See `results/wildlife_yolo/results.png` for training curves and
 `results/predictions/` for sample detections.
 
 ## Author
-Hessam Kaveh — Research Fellow, Italian Institute of Technology
+Hessam Kaveh - Research Fellow, Italian Institute of Technology
